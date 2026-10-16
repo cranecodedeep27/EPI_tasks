@@ -2,4 +2,4 @@
 string = "xyz"
 # Удаляем все символы:
 string = ""
-print(string)
+print(string) # Символов нет

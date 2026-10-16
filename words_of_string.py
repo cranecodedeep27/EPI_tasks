@@ -1,3 +1,4 @@
+# Задание 3
 string = input("Введите строку: ")
 
 longest_word = max(string.split(), key=len)

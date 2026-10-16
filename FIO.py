@@ -1,5 +1,5 @@
 # Задание 10
-fio = "Журавский Даниил Викторович"
+fio = input("Введите ФИО: ")
 
 list_fio = fio.split()
 print(list_fio)
